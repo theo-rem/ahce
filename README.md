@@ -1,7 +1,7 @@
-# SENTINEL
+# AHCE
 A suite of programs created to combat child sexual abuse media (CSAM) on the internet.
 
-This is the current structure of the SENTINEL ecosystem, as of 4/4/2025:
+This is the current structure of the AHCE ecosystem, as of 4/4/2025:
 
 **SENTINEL**: A Nous-Hermes based, Microsoft Azure-powered, 280 million parameter MoRA specializing in developing anti-CSAM measures, analyst coordination, and target analysis. Closed source, controlled access.
 
